@@ -1,4 +1,4 @@
 1. Install Git
-2. Learn git add
+
 
 3. Make a commit
